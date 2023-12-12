@@ -6,7 +6,4 @@
 
 Here, I have uploaded all my solutions of tasks in my Web Development Internship provided by CodSoft.
 
-# Certificate
 
-![CodSoft - Web Development Certificate]()
- 
